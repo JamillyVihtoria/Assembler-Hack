@@ -1,0 +1,13 @@
+@i
+M=0
+@sum
+M=0
+@i
+D=M
+@100
+D=D-A
+@END
+D;JGE
+(END)
+@END
+0;JMP
