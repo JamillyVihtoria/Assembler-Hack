@@ -74,5 +74,4 @@ O assembler realiza **duas passagens** sobre o arquivo fonte:
 
 ## Vídeo de Apresentação
 
-_(inserir aqui o link do vídeo de demonstração, conforme exigido pela
-atividade)_
+_https://drive.google.com/file/d/1RFmJBvq2Q_yuhUS5xhFiHGy53SpTPtq2/view?usp=sharing_
